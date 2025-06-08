@@ -10,7 +10,8 @@ This repository contains **chapter-wise PDF notes** that I’ve compiled to docu
 1. [Intro to Python](notes/Chapter1_Intro_To_Python.pdf)  
 2. [Flow Control](notes/Chapter2_Flow_Control_Notes.pdf)  
 3. [Loops](notes/Chapter3_Python_Loops_Notes.pdf)  
-4. [Collections](notes/Chapter4_Python_Collections_Notes.pdf)
+4. [Collections](notes/Chapter4_Python_Collections_Notes.pdf)  
+5. [Lists and Operations](notes/Chapter5_Python_Lists_Notes.pdf)
 
 Each PDF is structured with clear syntax, examples, notes on common errors, and best practices — all written in my own words with support from ChatGPT.
 
@@ -40,7 +41,7 @@ Stay tuned, and feel free to **star** or **share** if you find this helpful.
 
 ## 📬 Contact
 
-If you're on a similar journey or want to collaborate/ask questions, feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/aaditnair).
+If you're on a similar journey or want to collaborate/ask questions, feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/aadit-sabareesh-nair/).
 
 ---
 
